@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spinningmytails.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spinning0000" x="0" y="0" width="600" height="338"/>
+	<SubTexture name="spinning0001" x="605" y="0" width="600" height="338"/>
+	<SubTexture name="spinning0002" x="1210" y="0" width="600" height="338"/>
+	<SubTexture name="spinning0003" x="1815" y="0" width="600" height="338"/>
+	<SubTexture name="spinning0004" x="1815" y="0" width="600" height="338"/>
+	<SubTexture name="spinning0005" x="2420" y="0" width="600" height="338"/>
+	<SubTexture name="spinning0006" x="3025" y="0" width="600" height="338"/>
+	<SubTexture name="spinning0007" x="0" y="343" width="600" height="338"/>
+	<SubTexture name="spinning0008" x="605" y="343" width="600" height="338"/>
+	<SubTexture name="spinning0009" x="1210" y="343" width="600" height="338"/>
+	<SubTexture name="spinning0010" x="1815" y="343" width="600" height="338"/>
+	<SubTexture name="spinning0011" x="2420" y="343" width="600" height="338"/>
+	<SubTexture name="spinning0012" x="3025" y="343" width="600" height="338"/>
+	<SubTexture name="spinning0013" x="0" y="686" width="600" height="338"/>
+	<SubTexture name="spinning0014" x="605" y="686" width="600" height="338"/>
+	<SubTexture name="spinning0015" x="1210" y="686" width="600" height="338"/>
+	<SubTexture name="spinning0016" x="1815" y="686" width="600" height="338"/>
+	<SubTexture name="spinning0017" x="2420" y="686" width="600" height="338"/>
+</TextureAtlas>
